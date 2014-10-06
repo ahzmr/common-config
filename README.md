@@ -1,4 +1,4 @@
-common_config
+common-config
 =============
 
 常用的系统配置或常用软件配置
