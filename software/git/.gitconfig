@@ -1,0 +1,7 @@
+[user]
+	name = wenin819
+	email = wenin819@gmail.com
+[alias]
+	l = log --oneline --decorate -7
+	ll = log --oneline --decorate
+	st = status -s
